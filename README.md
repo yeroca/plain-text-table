@@ -13,7 +13,7 @@ Please visit : http://plaintexttools.github.io/plain-text-table
 * Flexible border configuration
 * Merged cell support (colspan and rowspan)
 * Multiline text in the cells
-* Text alignement support (horizontal and vertical)
+* Text alignment support (horizontal and vertical)
 * Predefined style
 
 All configuration options explained in the [user manual](user_manual/README.md).
